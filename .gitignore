@@ -1,0 +1,5 @@
+lbg-gcp.json
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+.terraform/*

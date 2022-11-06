@@ -1,0 +1,6 @@
+gcp_credentials     = "xxx"
+gcp_project_id      = "xxx"
+gcp_region          = "xxx"
+gke_cluster_name    = "xxx"
+gke_zones           = ["xxx"]
+gke_service_account = "xxx"
